@@ -1,4 +1,4 @@
 #!/bin/bash
 git add *
-git commit -m"3rd"
+git commit -m"c project"
 git push origin main
