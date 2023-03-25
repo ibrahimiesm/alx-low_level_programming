@@ -15,10 +15,3 @@ int _isupper(int c)
 		return (0);
 }
 
-int main()
-{
-	printf("%d\n",_isupper(88));
-	return 0;
-}
-
-
